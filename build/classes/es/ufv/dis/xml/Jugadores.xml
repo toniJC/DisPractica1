@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jugadores>
+	<jugador>
+		<nombre>E.J</nombre>
+		<apellido>Manuel</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="3">QB</posicion>
+		<salario>10.000</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Tyrod</nombre>
+		<apellido>Taylor</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="5">QB</posicion>
+		<salario>12.000</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Mike</nombre>
+		<apellido>Gillisee</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="35">RB</posicion>
+		<salario>7.500</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>LeSean</nombre>
+		<apellido>Mccoy</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="25">RB</posicion>
+		<salario>2.344</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>James</nombre>
+		<apellido>Wilder Jr.</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="32">QB</posicion>
+		<salario>12.232</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Karlos</nombre>
+		<apellido>Williams</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="29">QB</posicion>
+		<salario>1.223</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Cierre</nombre>
+		<apellido>Wood</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="41">RB</posicion>
+		<salario>2.112</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Jerome</nombre>
+		<apellido>Felton</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="42">FB</posicion>
+		<salario>12.221</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Jarret</nombre>
+		<apellido>Boykin</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="17">WR</posicion>
+		<salario>2.122</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Marcus</nombre>
+		<apellido>Easle</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="81">WR</posicion>
+		<salario>12.232</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Lavar </nombre>
+		<apellido>Edward</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="93">DE</posicion>
+		<salario>13.993</salario>
+		<rol>Defensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Jerry</nombre>
+		<apellido>Hughes</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="55">DE</posicion>
+		<salario>23.332</salario>
+		<rol>Defensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Manny</nombre>
+		<apellido>Lawsd</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="91">DE</posicion>
+		<salario>12.221</salario>
+		<rol>Defensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Cedric</nombre>
+		<apellido>Reed</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="56">DE</posicion>
+		<salario>12.221</salario>
+		<rol>Defensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Max</nombre>
+		<apellido>Valles</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="54">DE</posicion>
+		<salario>34.332</salario>
+		<rol>Defensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Jerel</nombre>
+		<apellido>Worthly</apellido>
+		<equipo>Buffalo Bills</equipo>
+		<posicion numero="69">DE</posicion>
+		<salario>21.122</salario>
+		<rol>Defensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Matt</nombre>
+		<apellido>Moore</apellido>
+		<equipo>Miami Dolphins</equipo>
+		<posicion numero="8">QB</posicion>
+		<salario>12.221</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Ryan</nombre>
+		<apellido>Tanneh</apellido>
+		<equipo>Miami Dolphins</equipo>
+		<posicion numero="17">QB</posicion>
+		<salario>23.332</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+	<jugador>
+		<nombre>Logan</nombre>
+		<apellido>Thomas</apellido>
+		<equipo>Miami Dolphins</equipo>
+		<posicion numero="5">QB</posicion>
+		<salario>12.221</salario>
+		<rol>Ofensiva</rol>
+	</jugador>
+</jugadores>

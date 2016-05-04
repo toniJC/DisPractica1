@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT jugadores (jugador+) >
+<!ELEMENT jugador (nombre?, apellido?, equipo?, posicion?, salario?, rol?) >
+<!ELEMENT nombre (#PCDATA) >
+<!ELEMENT apellido (#PCDATA) >
+<!ELEMENT equipo (#PCDATA) >
+<!ELEMENT posicion (#PCDATA) >
+	<!ATTLIST posicion numero CDATA #IMPLIED>
+<!ELEMENT salario (#PCDATA) >
+<!ELEMENT rol (#PCDATA)>
+
